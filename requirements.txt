@@ -1,0 +1,4 @@
+Django==1.10.2
+django-bower==5.2.0
+requests==2.11.1
+six==1.10.0
